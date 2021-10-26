@@ -1,6 +1,5 @@
 # Getting Started with Create React App
 you can see he website here - # https://vorcus.github.io/todo-app/ 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
